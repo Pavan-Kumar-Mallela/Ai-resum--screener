@@ -34,7 +34,7 @@ cd Ai-resum--screener
 
 pip install -r requirements.txt
 
-3.**Run the app:**
+3. **Run the app:**
 
 streamlit run main.py
 
