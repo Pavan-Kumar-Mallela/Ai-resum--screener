@@ -3,7 +3,10 @@
 A simple AI-powered tool to screen resumes against a given job description using keyword-based similarity. Built with **Python**, **Streamlit**, and **scikit-learn**, it ranks uploaded resumes (PDFs) based on how closely they match the job description.
 
 ---
+## Screenshot:
+![image](https://github.com/user-attachments/assets/7649c014-4218-4e5e-8f65-e23558c873fc)
 
+---
 ## 🚀 Features
 
 - ✅ Upload multiple resumes (PDF format)
