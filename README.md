@@ -63,9 +63,9 @@ streamlit run main.py
 ---
 
 ##🙋‍♂️ Author  
-Pavan Kumar Mallela
-📍 Visakhapatnam, India
-📧 pavankumarmallela0211@gmail.com
+Pavan Kumar Mallela  
+📍 Visakhapatnam, India  
+📧 pavankumarmallela0211@gmail.com  
 
 ---
 
