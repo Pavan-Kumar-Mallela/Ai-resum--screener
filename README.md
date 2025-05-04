@@ -23,7 +23,7 @@ ai_resume_screener/
 
 ---
 
-## 🔧 Installation
+## 🔧 Installation  
 
 1. **Clone the repo:**
 
@@ -40,7 +40,7 @@ streamlit run main.py
 
 ---
 
-📌 Example Usage
+📌 Example Usage  
 ->Copy a Job Description from LinkedIn, Naukri, etc.
 
 ->Upload multiple Resume PDFs
@@ -51,7 +51,7 @@ streamlit run main.py
 
 ---
 
-💡 Future Improvements
+💡 Future Improvements  
 ->Use NLP techniques (NER, skill extraction) with spaCy
 
 ->Add BERT or GloVe-based semantic matching
@@ -62,12 +62,12 @@ streamlit run main.py
 
 ---
 
-🙋‍♂️ Author
+🙋‍♂️ Author  
 Pavan Kumar Mallela
 📍 Visakhapatnam, India
 📧 pavankumarmallela0211@gmail.com
 
 ---
 
-📜 License
+📜 License  
 This project is open-source and free to use under the MIT License.
