@@ -16,10 +16,10 @@ A simple AI-powered tool to screen resumes against a given job description using
 
 ## 📁 Project Structure
 
-ai_resume_screener/
-├── main.py # Streamlit app
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+ai_resume_screener/  
+├── main.py # Streamlit app  
+├── requirements.txt # Python dependencies  
+└── README.md # Project documentation  
 
 ---
 
