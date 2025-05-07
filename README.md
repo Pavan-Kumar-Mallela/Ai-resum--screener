@@ -30,7 +30,7 @@ ai_resume_screener/
 
 1. **Clone the repo:**
 
-git clone https://github.com/Pavan-Kumar-Mallela/Ai-resum--screener.git
+git clone https://github.com/Pavan-Kumar-Mallela/Ai-resum--screener.git  
 cd Ai-resum--screener
 
 2. **Install dependencies:**
